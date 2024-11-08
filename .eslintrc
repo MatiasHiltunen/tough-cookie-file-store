@@ -1,7 +1,7 @@
 {
   "env": {
     "commonjs": true,
-    "es6": true,
+    "es12": true,
     "node": true,
     "mocha": true
   },

@@ -1,0 +1,22 @@
+{
+  "sync.com": {
+    "/": {
+      "syncKey1": {
+        "key": "syncKey1",
+        "value": "syncValue1",
+        "domain": "sync.com",
+        "path": "/",
+        "creation": "2024-11-08T12:25:16.822Z"
+      }
+    },
+    "/path": {
+      "syncKey2": {
+        "key": "syncKey2",
+        "value": "syncValue2",
+        "domain": "sync.com",
+        "path": "/path",
+        "creation": "2024-11-08T12:25:16.822Z"
+      }
+    }
+  }
+}
